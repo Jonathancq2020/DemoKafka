@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.PersistenceEFCore\\DemoKafka.PersistenceEFCore.csproj": {}
+  },
+  "projects": {
+    "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\DemoKafka.DomainServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\DemoKafka.DomainServices.csproj",
+        "projectName": "DemoKafka.DomainServices",
+        "projectPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\DemoKafka.DomainServices.csproj",
+        "packagesPath": "C:\\Users\\Sistema\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sistema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\DemoKafka.DomainModel.csproj": {
+                "projectPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\DemoKafka.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\DemoKafka.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\DemoKafka.DomainModel.csproj",
+        "projectName": "DemoKafka.DomainModel",
+        "projectPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\DemoKafka.DomainModel.csproj",
+        "packagesPath": "C:\\Users\\Sistema\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sistema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.PersistenceEFCore\\DemoKafka.PersistenceEFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.PersistenceEFCore\\DemoKafka.PersistenceEFCore.csproj",
+        "projectName": "DemoKafka.PersistenceEFCore",
+        "projectPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.PersistenceEFCore\\DemoKafka.PersistenceEFCore.csproj",
+        "packagesPath": "C:\\Users\\Sistema\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.PersistenceEFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sistema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\DemoKafka.DomainServices.csproj": {
+                "projectPath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.DomainServices\\DemoKafka.DomainServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

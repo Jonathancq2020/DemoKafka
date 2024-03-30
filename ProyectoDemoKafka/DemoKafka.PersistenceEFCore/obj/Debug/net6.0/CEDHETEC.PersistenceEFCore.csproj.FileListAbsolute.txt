@@ -1,0 +1,38 @@
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.deps.json
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.runtimeconfig.json
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.csproj.AssemblyReference.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.AssemblyInfoInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.AssemblyInfo.cs
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.csproj.CoreCompileInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\refint\CEDHETEC.PersistenceEFCore.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.genruntimeconfig.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\ref\CEDHETEC.PersistenceEFCore.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.1AEB9A6F.Up2Date
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.csproj.AssemblyReference.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.AssemblyInfoInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.AssemblyInfo.cs
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.csproj.CoreCompileInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.deps.json
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.runtimeconfig.json
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.PersistenceEFCore.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.1AEB9A6F.Up2Date
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\refint\CEDHETEC.PersistenceEFCore.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\CEDHETEC.PersistenceEFCore.genruntimeconfig.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.PersistenceEFCore\obj\Debug\net6.0\ref\CEDHETEC.PersistenceEFCore.dll

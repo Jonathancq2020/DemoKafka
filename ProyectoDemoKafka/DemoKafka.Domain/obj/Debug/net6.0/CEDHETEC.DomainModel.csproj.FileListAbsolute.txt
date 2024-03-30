@@ -1,0 +1,22 @@
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.deps.json
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.AssemblyInfoInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.AssemblyInfo.cs
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.csproj.CoreCompileInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\refint\CEDHETEC.DomainModel.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\ref\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.deps.json
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.AssemblyInfoInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.AssemblyInfo.cs
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.csproj.CoreCompileInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\refint\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.Domain\obj\Debug\net6.0\ref\CEDHETEC.DomainModel.dll

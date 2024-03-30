@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmD+81ZSKZpvGXmfEri9/R6KxmYYbnTY5l7i8h137vfdDVE8/bysPngnv1Z2f9XXK4YuH2FjjYM7Rq0+cp84+g==",
+  "success": true,
+  "projectFilePath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoKafka\\ProyectoDemoKafka\\DemoKafka.Application\\DemoKafka.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistema\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sistema\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sistema\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

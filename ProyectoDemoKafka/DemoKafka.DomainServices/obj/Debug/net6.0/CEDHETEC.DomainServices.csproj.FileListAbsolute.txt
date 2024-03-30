@@ -1,0 +1,30 @@
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.deps.json
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.csproj.AssemblyReference.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.AssemblyInfoInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.AssemblyInfo.cs
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.csproj.CoreCompileInputs.cache
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.490799F5.Up2Date
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\refint\CEDHETEC.DomainServices.dll
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CEDHETEC\1. CURSOS\PROYECTO API PARA FRONTEND\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\ref\CEDHETEC.DomainServices.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.deps.json
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainModel.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\bin\Debug\net6.0\CEDHETEC.DomainModel.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.csproj.AssemblyReference.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.AssemblyInfoInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.AssemblyInfo.cs
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.csproj.CoreCompileInputs.cache
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.490799F5.Up2Date
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\refint\CEDHETEC.DomainServices.dll
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\CEDHETEC.DomainServices.pdb
+D:\CURSOS\Lite Thinking\kafka\CEDHETEC.onion\CEDHETEC.DomainServices\obj\Debug\net6.0\ref\CEDHETEC.DomainServices.dll

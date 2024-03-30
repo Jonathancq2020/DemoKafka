@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CEDHETEC.DomainServices/1.0.0": {
+        "dependencies": {
+          "CEDHETEC.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "CEDHETEC.DomainServices.dll": {}
+        }
+      },
+      "CEDHETEC.DomainModel/1.0.0": {
+        "runtime": {
+          "CEDHETEC.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CEDHETEC.DomainServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CEDHETEC.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoKafka.DomainServices/1.0.0": {
+        "dependencies": {
+          "DemoKafka.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "DemoKafka.DomainServices.dll": {}
+        }
+      },
+      "DemoKafka.DomainModel/1.0.0": {
+        "runtime": {
+          "DemoKafka.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoKafka.DomainServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoKafka.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
